@@ -1,5 +1,0 @@
-//for using media pipe in collab you must have to run this in new cell 
-
-!pip uninstall mediapipe protobuf -y
-!pip install mediapipe==0.10.14
-!pip install "protobuf==3.20.3"
