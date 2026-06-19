@@ -6,3 +6,5 @@
 
 # 2. Install the EXACT matching versions
 !pip install --no-cache-dir mediapipe==0.10.14 opencv-python-headless==4.8.0.74 protobuf==4.25.3
+
+!pip install "numpy<2.0"
